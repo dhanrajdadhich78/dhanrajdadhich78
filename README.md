@@ -8,8 +8,7 @@
 - WhatsApp:    [+918886476456](https://wa.me/918886476456)
 - Skype:       [dhanraj.dadhich](https://join.skype.com/UJXMpYAydl2c)
 - Skype:       [dhanraj.dadhich1](skype:dhanraj.dadhich1)
-- Skills:      
-#### C, C++, Java, GoLang, Python, AI (Machine Learning, Deep Learning), TensorFlow, Qubit, Kotlin, Blockchain (Bitcoin, Ethereum, Hyperledger, NEO, Oracle blockchain) 
+- Skills:      #### C, C++, Java, GoLang, Python, AI (Machine Learning, Deep Learning), TensorFlow, Qubit, Kotlin, Blockchain (Bitcoin, Ethereum, Hyperledger, NEO, Oracle blockchain) 
 <!---
 dhanrajdadhich78/dhanrajdadhich78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
